@@ -1,0 +1,40 @@
+.nome-parceiros {
+    color: var(--color-black);
+    font-size: 64px;
+    line-height: 1.125;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-sizing: border-box;
+    max-width: 1200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+     
+}
+
+.nome-parceiros span {
+    color:#38B6FF ;
+}
+
+.parceiros {
+    width: 100%;
+    height: 350px;  
+}
+
+.parceiros ul {
+    display: flex;
+    gap: 80px;
+    padding: 0 80px;
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    
+}
+
+.parceiros img {
+    max-width: 100px;
+    max-height: 100px;
+}
