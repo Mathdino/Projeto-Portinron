@@ -12,4 +12,10 @@
 
 @import "./styles-qmsomos/qmsomos.css";
 
+@import "./styles-servicos/serv.css";
 
+@import "./styles-contato/contato.css";
+
+@import "./styles-contato/formulario.css";
+
+@import "./styles.parceria/parceria.css";

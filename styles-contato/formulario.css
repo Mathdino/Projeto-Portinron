@@ -1,0 +1,28 @@
+.form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.form label {
+    display: block;
+    font: 600 1rem/1.5 "Roboto";
+    margin-bottom: 4px;
+}
+
+.form .col-2{
+    grid-column: span 2;
+}
+
+.form input[type="text"],
+.form input[type="email"],
+.form textarea {
+    font: 300 1rem/1.5 "Roboto";
+    background: #d9d9da;
+    border: 1px solid #d7d7d8;
+    padding: 12px;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+

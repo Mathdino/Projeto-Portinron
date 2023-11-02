@@ -1,0 +1,24 @@
+.parceria-titulo h1 {
+    margin-bottom: 32px;
+    font-size: 54px;
+    line-height: 1.125;
+    padding-left: 80px;
+    margin-top: 30px;
+}
+
+.parceria-titulo span {
+    color: var(--color-bluep);
+}
+
+.parceria {
+    background-color:  #171818;
+    color: #F9FDFF;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.parceria-formulario{
+    padding: 20px;
+}

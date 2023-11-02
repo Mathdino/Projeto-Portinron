@@ -1,0 +1,27 @@
+.servicos h1 {
+    margin-bottom: 32px;
+    font-size: 54px;
+    line-height: 1.125;
+    padding-left: 80px;
+}
+
+.servicos span {
+    color: var(--color-bluep);
+}
+
+.container1 h1{
+    display:block;
+    align-items: center;
+    justify-content:center;
+}
+
+.container1 img {
+    height: 200px;
+}
+.container1 {
+    width: 1200px;
+    height: 200px;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-left: 80px;
+}
