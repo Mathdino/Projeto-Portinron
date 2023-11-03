@@ -1,27 +1,67 @@
-.servicos h1 {
+.servi h1 {
     margin-bottom: 32px;
     font-size: 54px;
     line-height: 1.125;
     padding-left: 80px;
+    margin-top: 30px;
 }
 
-.servicos span {
+.servi span {
     color: var(--color-bluep);
 }
 
-.container1 h1{
-    display:block;
-    align-items: center;
-    justify-content:center;
+.servicos ul li{
+    margin-left: 80px;
+    margin-top: 40px;
+    background-color: #171818;
+    margin-right: 80px;
+    border-radius: 5px;
 }
 
-.container1 img {
-    height: 200px;
+.servicos h3 {
+    font-size: 28px;
+    color:#F9FDFF;
+    margin-top: -80px;
+    margin-left: 30px;
 }
-.container1 {
-    width: 1200px;
-    height: 200px;
-    border-radius: 5px;
-    padding-top: 30px;
-    padding-left: 80px;
+
+.servicos p{
+    font-size: 18px;
+    color:#a1a3a3;
+    margin-top: 30px;
+    margin-left: 35px;
+}
+
+.image-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .image-list li {
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 20px;
+  }
+  
+.image-list .cont p {
+    font-size: 15px;
+    color:#a1a3a3;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 40px;
+}
+
+.image-list .cont h3 {
+    font-size: 28px;
+    color:#F9FDFF;
+    margin-top: -10px;
+    margin-left: 30px;
+}
+
+.image-list .cont span{
+    color: #F9FDFF;
+}
+
+.image-list .cont .spanblue{
+   color: #38B6FF;
 }
